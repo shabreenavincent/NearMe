@@ -215,5 +215,7 @@ HTML Validator:
 
 ![result](https://user-images.githubusercontent.com/119475721/215317850-725b7271-0922-46bf-a481-f2c5a73a919d.JPEG)
 
+# Result:
 
+The program for implementing image map is executed successfully
 
