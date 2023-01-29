@@ -14,8 +14,8 @@ Execute the programs and publish them.
 
 Code:
 
-map.html
 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +26,7 @@ map.html
 <font color="red"><b>Ariyalur - Cement City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>PREMA LATHA S (22009393)</b></font>
+<font color="blue"><b>SHABREENA VINCENT(22009378)</b></font>
 </h3>
 <center>
 <img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
@@ -187,7 +187,7 @@ The uses of Washerman's Lake in Ariyalur District are
 </p>
 </body>
 </html>
-
+```
 Output:
 
 
