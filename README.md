@@ -1,15 +1,16 @@
-Places Around Me
-AIM:
+# Places Around Me
+
+## AIM:
 To develop a website to display details about the places around my house.
 
-Design Steps:
-Step 1:
+## Design Steps:
+# Step 1:
 Create clickable regions in image using map element.
 
-Step 2:
+# Step 2:
 Write HTML programs for all the regions identified.
 
-Step 3:
+# Step 3:
 Execute the programs and publish them.
 
 Code:
